@@ -26,6 +26,6 @@ git is using for ....
 
 * git clone - clones remote repository
 
-* git push
+* git push -pushes to remote 
 
-* git pull
+* git pull - pulls from remote
